@@ -1,2 +1,2 @@
 # Gen-AI
-#Fundamentals of Neural network to working with Large language models
+Fundamentals of Neural network to working with Large language models
